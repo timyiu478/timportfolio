@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/timportfolio/static/css/main.ca9b6388.chunk.css",
-    "main.js": "/timportfolio/static/js/main.f40b7921.chunk.js",
-    "main.js.map": "/timportfolio/static/js/main.f40b7921.chunk.js.map",
+    "main.css": "/timportfolio/static/css/main.c52c64fb.chunk.css",
+    "main.js": "/timportfolio/static/js/main.d55dd97d.chunk.js",
+    "main.js.map": "/timportfolio/static/js/main.d55dd97d.chunk.js.map",
     "runtime-main.js": "/timportfolio/static/js/runtime-main.60a30e98.js",
     "runtime-main.js.map": "/timportfolio/static/js/runtime-main.60a30e98.js.map",
     "static/js/2.f0ec048b.chunk.js": "/timportfolio/static/js/2.f0ec048b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.25fa1430.chunk.js": "/timportfolio/static/js/3.25fa1430.chunk.js",
     "static/js/3.25fa1430.chunk.js.map": "/timportfolio/static/js/3.25fa1430.chunk.js.map",
     "index.html": "/timportfolio/index.html",
-    "static/css/main.ca9b6388.chunk.css.map": "/timportfolio/static/css/main.ca9b6388.chunk.css.map",
+    "static/css/main.c52c64fb.chunk.css.map": "/timportfolio/static/css/main.c52c64fb.chunk.css.map",
     "static/js/2.f0ec048b.chunk.js.LICENSE.txt": "/timportfolio/static/js/2.f0ec048b.chunk.js.LICENSE.txt",
     "static/media/CookGame.ef11035e.jpg": "/timportfolio/static/media/CookGame.ef11035e.jpg",
     "static/media/atm.32dcee2c.jpg": "/timportfolio/static/media/atm.32dcee2c.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.60a30e98.js",
     "static/js/2.f0ec048b.chunk.js",
-    "static/css/main.ca9b6388.chunk.css",
-    "static/js/main.f40b7921.chunk.js"
+    "static/css/main.c52c64fb.chunk.css",
+    "static/js/main.d55dd97d.chunk.js"
   ]
 }
