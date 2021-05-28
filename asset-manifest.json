@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/timportfolio/static/css/main.64c2406f.chunk.css",
+    "main.js": "/timportfolio/static/js/main.f40b7921.chunk.js",
+    "main.js.map": "/timportfolio/static/js/main.f40b7921.chunk.js.map",
+    "runtime-main.js": "/timportfolio/static/js/runtime-main.60a30e98.js",
+    "runtime-main.js.map": "/timportfolio/static/js/runtime-main.60a30e98.js.map",
+    "static/js/2.f0ec048b.chunk.js": "/timportfolio/static/js/2.f0ec048b.chunk.js",
+    "static/js/2.f0ec048b.chunk.js.map": "/timportfolio/static/js/2.f0ec048b.chunk.js.map",
+    "static/js/3.25fa1430.chunk.js": "/timportfolio/static/js/3.25fa1430.chunk.js",
+    "static/js/3.25fa1430.chunk.js.map": "/timportfolio/static/js/3.25fa1430.chunk.js.map",
+    "index.html": "/timportfolio/index.html",
+    "static/css/main.64c2406f.chunk.css.map": "/timportfolio/static/css/main.64c2406f.chunk.css.map",
+    "static/js/2.f0ec048b.chunk.js.LICENSE.txt": "/timportfolio/static/js/2.f0ec048b.chunk.js.LICENSE.txt",
+    "static/media/CookGame.ef11035e.jpg": "/timportfolio/static/media/CookGame.ef11035e.jpg",
+    "static/media/atm.32dcee2c.jpg": "/timportfolio/static/media/atm.32dcee2c.jpg",
+    "static/media/e_voucher.ec2bb707.jpg": "/timportfolio/static/media/e_voucher.ec2bb707.jpg",
+    "static/media/homepage.d337dc57.jpg": "/timportfolio/static/media/homepage.d337dc57.jpg",
+    "static/media/multiplication_game.2390c81e.jpg": "/timportfolio/static/media/multiplication_game.2390c81e.jpg",
+    "static/media/pet-online-shop.21f954e4.jpg": "/timportfolio/static/media/pet-online-shop.21f954e4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60a30e98.js",
+    "static/js/2.f0ec048b.chunk.js",
+    "static/css/main.64c2406f.chunk.css",
+    "static/js/main.f40b7921.chunk.js"
+  ]
+}
